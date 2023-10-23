@@ -47,4 +47,7 @@ module.exports = {
       entry: path.resolve(__dirname, 'src/scripts/sw.js'),
     }),
   ],
+  optimization: {
+    minimize: false
+  },
 };
