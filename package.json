@@ -42,4 +42,7 @@
     "regenerator-runtime": "^0.13.5",
     "serviceworker-webpack-plugin": "^1.0.1"
   }
+  "engines": {
+  "node": "16.x"
+},
 }
